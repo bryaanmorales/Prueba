@@ -1,0 +1,15 @@
+{
+  "name": "api-products",
+  "version": "1.0.0",
+  "description": "API para gestionar productos en un catálogo",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.19.1"
+  },
+  "author": "Brayan Morales",
+  "license": "MIT"
+}
