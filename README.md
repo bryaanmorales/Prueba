@@ -52,3 +52,7 @@ e) Eliminar un producto
 3. Haz clic en Send para eliminar el producto.
 6. Detener el servidor
 Para detener el servidor, simplemente presiona Ctrl + C en la terminal.
+
+
+
+Link del video: https://www.loom.com/share/a2601db669254192a5bde7feea308f8e?sid=52dcbe6d-bdf9-4669-8573-f0b0090ddc82
